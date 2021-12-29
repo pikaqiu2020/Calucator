@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfCalucation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCalucation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="407" Width="295">
+    <Grid PreviewMouseUp="Button_Click">
+        <Button Content="C" HorizontalAlignment="Left" Height="63" Margin="0,65,0,0" VerticalAlignment="Top" Width="216"/>
+        <Button Content="=" HorizontalAlignment="Left" Height="63" Margin="216,314,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="." HorizontalAlignment="Left" Height="63" Margin="144,314,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="0" HorizontalAlignment="Left" Height="63" Margin="0,314,0,0" VerticalAlignment="Top" Width="144"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="63" Margin="216,253,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="3" HorizontalAlignment="Left" Height="63" Margin="144,253,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="2" HorizontalAlignment="Left" Height="63" Margin="72,253,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="1" HorizontalAlignment="Left" Height="63" Margin="0,253,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="-" HorizontalAlignment="Left" Height="63" Margin="216,191,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="6" HorizontalAlignment="Left" Height="63" Margin="144,191,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="5" HorizontalAlignment="Left" Height="63" Margin="72,191,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="4" HorizontalAlignment="Left" Height="63" Margin="0,191,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="*" HorizontalAlignment="Left" Height="63" Margin="216,128,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="9" HorizontalAlignment="Left" Height="63" Margin="144,128,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="8" HorizontalAlignment="Left" Height="63" Margin="72,128,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="7" HorizontalAlignment="Left" Height="63" Margin="0,128,0,0" VerticalAlignment="Top" Width="72"/>
+        <Button Content="/" HorizontalAlignment="Left" Height="63" Margin="216,65,0,0" VerticalAlignment="Top" Width="72"/>
+        <TextBox Name="textBox" TextAlignment="Right" HorizontalAlignment="Left" Height="28" Margin="144,32,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="134" BorderBrush="{x:Null}" IsEnabled="False"/>
+    </Grid>
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="BorderThickness" Value="1"></Setter>
+        </Style>
+    </Window.Resources>
+</Window>
