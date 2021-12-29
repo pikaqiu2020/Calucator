@@ -1,0 +1,15 @@
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\bin\Debug\WpfCalucation.exe.config
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\bin\Debug\WpfCalucation.exe
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\bin\Debug\WpfCalucation.pdb
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.csprojAssemblyReference.cache
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\MainWindow.g.cs
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\App.g.cs
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation_MarkupCompile.cache
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation_MarkupCompile.lref
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\MainWindow.baml
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.g.resources
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.Properties.Resources.resources
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.csproj.GenerateResource.cache
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.csproj.CoreCompileInputs.cache
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.exe
+F:\mine\C#\wpf\WpfCalucation\WpfCalucation\obj\Debug\WpfCalucation.pdb
